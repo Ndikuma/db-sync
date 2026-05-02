@@ -126,7 +126,7 @@ sudo journalctl -u db-sync -f    # live logs
 
 ### Windows (NSSM Service)
 
-1. Download [nssm.exe](https://nssm.cc/download) and place it in the project folder
+1. Download **nssm.exe** from → **https://nssm.cc/download** and place it in the project folder
 2. Open PowerShell as Administrator
 
 ```powershell
