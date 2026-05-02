@@ -41,7 +41,7 @@ You can mix engines — e.g. SQLite local → MySQL remote.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/db-sync.git
+git clone https://github.com/Ndikuma/db-sync.git
 cd db-sync
 
 python3 -m venv venv
